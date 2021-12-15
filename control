@@ -1,0 +1,9 @@
+Package: daniel.keepcache
+Name: keepcache
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Prevent network caches from being removed when exiting an app. 
+Maintainer: daniel
+Author: daniel
+Section: Tweaks
+Depends: mobilesubstrate
